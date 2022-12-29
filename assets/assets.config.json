@@ -1,0 +1,53 @@
+{
+  "img1.jpeg": {
+    "mime": "image/jpeg"
+  },
+  "IMG2.png": {
+    "mime": "image/png"
+  },
+  "IMG3.png": {
+    "mime": "image/png"
+  },
+  "IMG4.png": {
+    "mime": "image/png"
+  },
+  "IMG5.png": {
+    "mime": "image/png"
+  },
+  "IMG6.svg": {
+    "mime": "image/svg+xml"
+  },
+  "IMG7.svg": {
+    "mime": "image/svg+xml"
+  },
+  "IMG8.svg": {
+    "mime": "image/svg+xml"
+  },
+  "IMG9.png": {
+    "mime": "image/png"
+  },
+  "IMG10.png": {
+    "mime": "image/png"
+  },
+  "IMG11.png": {
+    "mime": "image/png"
+  },
+  "IMG12.png": {
+    "mime": "image/png"
+  },
+  "IMG13.png": {
+    "mime": "image/png"
+  },
+  "IMG14.png": {
+    "mime": "image/png"
+  },
+  "IMG15.png": {
+    "mime": "image/png"
+  },
+  "IMG15.svg": {
+    "mime": "image/svg+xml"
+  },
+  "IMG16.svg": {
+    "mime": "image/svg+xml"
+  }
+}
